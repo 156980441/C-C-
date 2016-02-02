@@ -18,3 +18,8 @@ second多余提交2
 second多余提交2
 second多余提交2
 second多余提交2
+
+second多余提交3
+
+second多余提交4 amend
+second多余提交4 amend
